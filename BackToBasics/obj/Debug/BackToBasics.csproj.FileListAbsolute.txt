@@ -1,0 +1,6 @@
+c:\users\dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe.config
+c:\users\dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe
+c:\users\dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\bin\Debug\BackToBasics.pdb
+c:\users\dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.exe
+c:\users\dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.pdb
+C:\Users\Dimba\documents\visual studio 2017\Projects\BackToBasics\BackToBasics\obj\Debug\BackToBasics.csprojResolveAssemblyReference.cache
