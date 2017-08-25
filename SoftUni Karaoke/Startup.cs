@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace SoftUni_Karaoke
 {
-    class Program
+    public class Startup
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            List<string> participants = Console.ReadLine().Split(new char[] { ' ', ',' }).ToList();
         }
     }
 }
