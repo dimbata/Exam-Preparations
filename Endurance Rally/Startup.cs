@@ -42,7 +42,7 @@ namespace Endurance_Rally
                 }
                 else
                 {
-                    Console.WriteLine($"{driver} reached {reachedIndex}");
+                    Console.WriteLine($"{driver} - reached {reachedIndex}");
                 }
 
             }
